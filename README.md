@@ -5,7 +5,7 @@ The power of Large Language Models (LLMs) are being introduced across all sector
 This is a group project completed by Diksha Bidikar, Katie Rizik, Laura Swafford, Lajvi Bhavsar, and Danny Yoon. 
 
 Danny's contribution to this project pertains to the fastText model and its code.
-- fasttext_code.pdf
+- fasttext_code.py
 
 The article written by the group and its code.
 - sentiment_analysis_article.pdf
