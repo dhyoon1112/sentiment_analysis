@@ -6,7 +6,6 @@ This is a group project completed by Diksha Bidikar, Katie Rizik, Laura Swafford
 
 Danny's contribution to this project pertains to the fastText model and its code.
 - fasttext_code.pdf
-- fasttext_code.py
 
 The article written by the group and its code.
 - sentiment_analysis_article.pdf
